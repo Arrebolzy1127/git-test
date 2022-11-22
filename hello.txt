@@ -1,12 +1,18 @@
+<<<<<< HEAD
 kjfdjfdjia
 jfdajfiojfj
 jfdjfiwj
 jfijaio
 jfddddddddddddddddddddddd
 jfffffffffffffffffffffff
-fjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 dhhhhhhhhhhhhhhhhhhhhhh
 iiiiiiiiiiiiiiii
 hffffffffffffffffffffffffffff
 ddddddbbbbbbbbbbbbbbbbbbbbb
 uuuuuuuuuuuuuuuuu
+=======
+fhdjhfjda
+hfffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffff
+hfffffffffffffffffffffffffffffffffffffffffffffff
+>>>>>>> hot-fix
